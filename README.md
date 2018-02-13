@@ -7,7 +7,10 @@ correct path for the .csv file. Import the librabry file in case the files are n
 Libraries and Packages to be Installed
 
   • Numpy
+  
   • Pandas
+  
   • Sklearn for classifiers and performance metrics
+  
  
 Python 3.6.3 or higher.
